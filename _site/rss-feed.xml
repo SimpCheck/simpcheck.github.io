@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
 	<channel>
-		<title>未命名</title>
-		<description>只想盡快開始找一個紀錄的空間</description>
+		<title>Untitled</title>
+		<description>Be content to be thought foolish</description>
 		<link></link>
 		<atom:link href="/rss-feed.xml" rel="self" type="application/rss+xml" />
 		
@@ -15,7 +15,7 @@
 					<description>&lt;p&gt;Hi there! .&lt;/p&gt;
 </description>
 				
-				<pubDate>Thu, 27 Aug 2020 00:00:00 -0500</pubDate>
+				<pubDate>Thu, 27 Aug 2020 00:00:00 +0800</pubDate>
 				<link>http://localhost:4000/blog/about.html</link>
 				<guid isPermaLink="true">http://localhost:4000/blog/about.html</guid>
 			</item>
