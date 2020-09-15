@@ -1,9 +1,9 @@
 ---
 layout: page
-title: Blog
+title: Quality
 ---
 <ul class="posts">
-  {% for post in site.categories.blog %}
+  {% for post in site.categories.quality %}
 
     {% unless post.next %}
       <h3>{{ post.date | date: '%Y' }}</h3>

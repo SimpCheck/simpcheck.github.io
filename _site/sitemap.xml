@@ -13,4 +13,10 @@
 <url>
 <loc>http://localhost:4000/</loc>
 </url>
+<url>
+<loc>http://localhost:4000/menu/leadership.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/menu/quality.html</loc>
+</url>
 </urlset>
