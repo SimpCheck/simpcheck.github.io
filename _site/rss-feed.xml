@@ -7,17 +7,18 @@
 		<atom:link href="/rss-feed.xml" rel="self" type="application/rss+xml" />
 		
 			<item>
-				<title>About</title>
+				<title>第一篇</title>
 				
-					<dc:creator>test</dc:creator>
+					<dc:creator>S.H.Peng</dc:creator>
 				
 				
-					<description>&lt;p&gt;Hi there! .&lt;/p&gt;
+					<description>&lt;p&gt;一直想開始寫部落格，想要系統化的累積與整理學習到的事物，可是卻又撥不出時間。&lt;/p&gt;
+
 </description>
 				
-				<pubDate>Thu, 27 Aug 2020 00:00:00 -0500</pubDate>
-				<link>http://localhost:4000/blog/about.html</link>
-				<guid isPermaLink="true">http://localhost:4000/blog/about.html</guid>
+				<pubDate>Tue, 15 Sep 2020 00:00:00 -0500</pubDate>
+				<link>http://localhost:4000/blog/first-article.html</link>
+				<guid isPermaLink="true">http://localhost:4000/blog/first-article.html</guid>
 			</item>
 		
 	</channel>
