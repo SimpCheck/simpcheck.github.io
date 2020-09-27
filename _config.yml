@@ -20,7 +20,7 @@ permalink:           none
 plugins:             [jekyll-paginate, jekyll-sitemap, jekyll-feed, jekyll-seo-tag]
 
 # Customise atom feed settings (this is where Jekyll-Feed gets configuration information)
-title:		           'Untitled'
+title:		           'SimpCheck'
 description:	       'Be content to be thought foolish'
 author:              'S.H. Peng'
 
